@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-Project: openfoodfacts\n"
 "X-Crowdin-Project-ID: 243092\n"
 "X-Crowdin-Language: nl-BE\n"
-"X-Crowdin-File-ID: 1808\n"
+"X-Crowdin-File-ID: 2538\n"
 
 msgctxt "1_product"
 msgid "1 product"
@@ -280,7 +280,7 @@ msgstr "Je kan ook helpen met het financieren van het Open Food Facts project"
 
 msgctxt "producers_administration_manual"
 msgid "Producers Admin manual"
-msgstr "Producers beheerders handleiding"
+msgstr "Admin handleiding van Producenten"
 
 msgctxt "bottom_content"
 msgid "<a href=\"https://world.openfoodfacts.org/donate-to-open-food-facts\"><img src=\"https://static.openfoodfacts.org/images/svg/donate-icon.svg\" alt=\"Donate to Open Food Facts\" /></a><p><<site_name>> is made by a non-profit association, independent from the industry. It is made for all, by all, and it is funded by all. You can support our work by <a href=\"https://world.openfoodfacts.org/donate-to-open-food-facts\">donating to Open Food Facts</a> and also by <a href=\"https://www.lilo.org/fr/open-food-facts/?utm_source=open-food-facts\">using the Lilo search engine</a>.<br/><b>Thank you!</b></p>"
@@ -797,7 +797,7 @@ msgstr "Veel gestelde vragen"
 # Do not translate without having the same exact string in the Tags template. Do not use spaces, special characters, only alphanumeric characters separated by hyphens
 msgctxt "footer_faq_link"
 msgid "https://support.openfoodfacts.org/help/en-gb"
-msgstr "https://support.openfoodfacts.org/help/nl-nl"
+msgstr "https://support.openfoodfacts.org/help/en-gb"
 
 msgctxt "footer_translators"
 msgid "Translators"
@@ -1743,7 +1743,7 @@ msgstr "%s heeft %d Ontdekkers et %d Ambassadeurs."
 
 msgctxt "points_ranking"
 msgid "Ranking"
-msgstr "Ordening"
+msgstr "Rangschikkingen"
 
 msgctxt "points_ranking_users_and_countries"
 msgid "Ranking of contributors and countries"
@@ -2424,7 +2424,7 @@ msgstr "winkel"
 
 msgctxt "stores_tagsinput"
 msgid "add a store"
-msgstr "voeg winkel toe"
+msgstr "voeg een winkel toe"
 
 msgctxt "stores_without_products"
 msgid "Products not bought at %s"
@@ -4261,7 +4261,7 @@ msgstr "Streepjescode weergeven in zoekresultaten"
 
 msgctxt "edit_link_in_search"
 msgid "Add an edit link in search results"
-msgstr "Een bewerkingslink toevoegen in zoekresultaten"
+msgstr "Een bewerkingslink toevoegen in de zoekresultaten"
 
 # leave the %d, it will be replaced by a number
 msgctxt "n_products_will_be_exported"
@@ -4515,7 +4515,7 @@ msgstr "Ontbrekende gegevens om de Nutri-Score te berekenen"
 
 msgctxt "attribute_nutriscore_not_applicable_title"
 msgid "Nutri-Score not-applicable"
-msgstr "Nutri-Score niet toepasbaar"
+msgstr "Nutri-Score niet van toepassing"
 
 msgctxt "attribute_nutriscore_not_applicable_description_short"
 msgid "Not-applicable for the category"
@@ -4897,7 +4897,7 @@ msgstr "Milieubelasting"
 # Numerical score for the Eco-score (do not translate Eco-score)
 msgctxt "ecoscore_score"
 msgid "Eco-score score"
-msgstr "Eco-score score"
+msgstr "Eco-score cijfer"
 
 # Letter grade from A to E for the Eco-score (do not translate Eco-score)
 msgctxt "ecoscore_grade"
@@ -4994,7 +4994,7 @@ msgstr "Verwijder alle voorkeuren"
 
 msgctxt "products_are_being_loaded_please_wait"
 msgid "Products are being loaded, please wait."
-msgstr "Producten worden geladen, even geduld a.j.b."
+msgstr "Producten worden geladen, even geduld a. u. b."
 
 msgctxt "products_match_all"
 msgid "All products"
@@ -5078,7 +5078,7 @@ msgstr "Beheer je producten op het producentenplatform"
 
 msgctxt "number_of_products_with_changes_since_last_export"
 msgid "Number of products with changes since last export"
-msgstr "Aantal producten met wijzigingen sinds laatste export"
+msgstr "Aantal producten met wijzigingen sinds de laatste export"
 
 msgctxt "only_export_products_with_changes"
 msgid "Only export products with changes"
@@ -5151,7 +5151,7 @@ msgstr "Matig ontbossingrisico"
 
 msgctxt "attribute_forest_footprint_d_description_short"
 msgid "High risk of deforestation"
-msgstr "Groot ontbossing risico"
+msgstr "Groot ontbossingrisico"
 
 msgctxt "attribute_forest_footprint_e_description_short"
 msgid "Very high risk of deforestation"
@@ -5283,7 +5283,7 @@ msgstr "Handmatige export kan worden ingeschakeld zodra de geïmporteerde gegeve
 
 msgctxt "org_activate_automated_daily_export_to_public_platform"
 msgid "Activate automated daily exports of product data and photos to the public database."
-msgstr "Activeer automatische dagelijkse export van productgegevens en -foto's naar de openbare database."
+msgstr "Activeer geautomatiseerde dagelijkse export van productgegevens en foto's naar de openbare database."
 
 msgctxt "org_activate_automated_daily_export_to_public_platform_note"
 msgid "Automated exports should be activated only for organizations that have automated imports (e.g. through Equadis)."
@@ -5355,7 +5355,7 @@ msgstr "Overschrijf producten die een andere eigenaar hebben op het openbare pla
 
 msgctxt "data_source_database"
 msgid "Some of the data for the products of %s come from %s."
-msgstr "Sommige van de gegevens voor de producten van %s komen uit %s."
+msgstr "Sommige gegevens voor de producten van %s komen uit %s."
 
 msgctxt "data_source_database_note_about_the_producers_platform"
 msgid "Manufacturers can use the Open Food Facts <a href=\"<producers_platform_url>\">free plaform for producers</a> to access and complete this data, and to obtain reports, analysis and product improvements opportunities (e.g. better Nutri-Score)."
@@ -5368,12 +5368,12 @@ msgstr "De fabrikant {manufacturer} gebruikt {provider} om automatisch gegevens 
 
 msgctxt "image_other_type"
 msgid "Type of the product photo"
-msgstr "Productfototype"
+msgstr "Type van de productfoto"
 
 # do not translate "front, ingredients, nutrition, packaging"
 msgctxt "image_other_type_description"
 msgid "If you use the same column on multiple lines to provide images URLs for a single product, you can use this field to indicate the type of the image: front, ingredients, nutrition or packaging."
-msgstr "Als je dezelfde kolom op meerdere regels gebruikt om afbeeldingen-URL's voor een enkel product op te geven, kunt je dit veld gebruiken om het type afbeelding aan te geven: front, ingredients, nutrition, packaging."
+msgstr "Als u dezelfde kolom op meerdere regels gebruikt om afbeeldingen-URL's voor een enkel product op te geven, kunt u dit veld gebruiken om het type afbeelding aan te geven: voorkant, ingrediënten, voeding of verpakking."
 
 msgctxt "forest_footprint_one_line_explanation"
 msgid "The forest footprint is calculated by taking into account the ingredients whose production requires soybeans, the cultivation of which is linked to deforestation."
@@ -5401,7 +5401,7 @@ msgstr "Je kan het product bewerken om ontbrekende informatie toe te voegen."
 
 msgctxt "ecoscore_product_category_reference_score"
 msgid "Baseline score of the product category"
-msgstr "Productcategorie Basisscore"
+msgstr "Basisscore van de productcategorie"
 
 msgctxt "ecoscore_panel_lca"
 msgid "Lifecyle Analysis (LCA)"
@@ -5527,7 +5527,7 @@ msgstr "Er is geen informatie verstrekt over de ingrediënten van dit product."
 
 msgctxt "ecoscore_edit_for_more_precise_ecoscore"
 msgid "For a more precise calculation of the Eco-Score, you can edit the product page and add them."
-msgstr "Voor een nauwkeurigere berekening van de Eco-Score kun je de productpagina bewerken en toevoegen."
+msgstr "Voor een nauwkeurigere berekening van de Eco-Score kun je de productpagina bewerken en data toevoegen."
 
 msgctxt "ecoscore_packaging_ratio"
 msgid "ratio"
@@ -5595,7 +5595,7 @@ msgstr "GS1-productnamen voor deze fabrikant zijn afgekort."
 
 msgctxt "org_gs1_nutrients_are_unprepared"
 msgid "GS1 prepared nutrients for this manufacturer are in fact for the product as sold."
-msgstr "De voor deze fabrikant bereide voedingsstoffen zijn voor het product zoals het is verkocht."
+msgstr "GS1 bereide voedingsstoffen voor deze fabrikant zijn in feite voor het product zoals verkocht."
 
 msgctxt "org_gs1_nutrients_are_unprepared_note"
 msgid "Check that the manufacturer does not make products that really have nutrients for the prepared product."
@@ -5720,11 +5720,11 @@ msgstr "Ingrediënten voor elk product"
 
 msgctxt "product_deleted"
 msgid "Product deleted."
-msgstr "Product verwijderd!"
+msgstr "Product verwijderd."
 
 msgctxt "carbon_footprint"
 msgid "Carbon footprint"
-msgstr "CO2-voetafdruk"
+msgstr "Co2-voetafdruk"
 
 # variable names between { } must not be translated
 msgctxt "f_carbon_footprint_per_100g_of_product"
@@ -5890,7 +5890,7 @@ msgstr "Minder is beter"
 
 msgctxt "recommendation_who_reduce_or_stop_drinking_alcohol_text"
 msgid "This might not be the answer people want to hear, but there is no safe level for drinking alcohol. Of course there is lower-risk drinking, but WHO does not set particular limits, because the evidence shows that the ideal situation for health is to not drink at all. Alcohol is closely related to around 60 different diagnoses and for almost all there is a close dose–response relationship, so the more you drink, the higher your risk of disease. Less is better."
-msgstr "Dit is misschien niet het antwoord dat mensen willen horen, maar er is geen veilig niveau voor het drinken van alcohol. Natuurlijk is er minder risico op drinken, maar de WHO stelt geen specifieke limieten, omdat het bewijs aantoont dat de ideale situatie voor de gezondheid is om helemaal niet te drinken. Alcohol hangt nauw samen met ongeveer 60 verschillende diagnoses en voor bijna alle is er een nauwe relatie met de dosering, dus hoe meer je drinkt, hoe groter het risico op ziekte. Minder is beter."
+msgstr "Dit is misschien niet het antwoord dat mensen willen horen, maar er is geen veilig niveau voor het drinken van alcohol. Natuurlijk is er minder risico drinken, maar de WHO stelt geen specifieke limieten, omdat het bewijs aantoont dat de ideale situatie voor de gezondheid is om helemaal niet te drinken. Alcohol hangt nauw samen met ongeveer 60 verschillende diagnoses en voor bijna alle is er een nauwe relatie met de dosering, dus hoe meer je drinkt, hoe groter het risico op ziekte. Minder is beter."
 
 # "source" as in "source of the information"
 msgctxt "source"
@@ -5932,7 +5932,7 @@ msgstr "Geen niet-vegetarische ingrediënten gevonden"
 
 msgctxt "maybe_vegetarian_ingredients"
 msgid "Ingredients that may not be vegetarian"
-msgstr "Ingrediënten die niet vegetarisch mogen zijn"
+msgstr "Ingrediënten die mogelijk niet vegetarisch zijn"
 
 msgctxt "palm_oil_ingredients"
 msgid "Ingredients that contain palm oil"
@@ -5965,7 +5965,7 @@ msgstr "Levensmiddelen worden ingedeeld in vier groepen volgens de mate van verw
 
 msgctxt "nova_classification_how"
 msgid "The determination of the group is based on the category of the product and on the ingredients it contains."
-msgstr "De bepaling van de groep is gebaseerd op de categorie van het product en op de ingrediënten die het bevat."
+msgstr "De bepaling van de groep is gebaseerd op de categorie van het product en op de ingrediënten die het product bevat."
 
 msgctxt "nova_classification_learn_more"
 msgid "Learn more about the NOVA classification"
@@ -5981,7 +5981,7 @@ msgstr "De ingrediënten van het product moeten worden gespecificeerd om de NOVA
 
 msgctxt "nova_group_too_many_unknown_ingredient"
 msgid "We could not recognize some of the ingredients and determine the NOVA group."
-msgstr "We konden een aantal ingrediënten niet herkennen en de NOVA-groep bepalen."
+msgstr "We konden een aantal ingrediënten niet herkennen en geen NOVA-groep bepalen."
 
 msgctxt "unselect_image"
 msgid "Unselect Image"

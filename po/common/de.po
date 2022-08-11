@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-Project: openfoodfacts\n"
 "X-Crowdin-Project-ID: 243092\n"
 "X-Crowdin-Language: de\n"
-"X-Crowdin-File-ID: 1808\n"
+"X-Crowdin-File-ID: 2538\n"
 
 msgctxt "1_product"
 msgid "1 product"
@@ -600,7 +600,7 @@ msgstr "Rückverfolgbarkeitscodes"
 
 msgctxt "emb_code_s"
 msgid "Traceability code"
-msgstr "Identitätskennzeichen"
+msgstr "Produzentenschlüssel"
 
 msgctxt "emb_codes"
 msgid "Traceability code"
@@ -2298,7 +2298,7 @@ msgstr "Produktdetails anzeigen"
 
 msgctxt "select_country"
 msgid "Country"
-msgstr "Vertriebsländer"
+msgstr "Land"
 
 msgctxt "select_lang"
 msgid "Language"
